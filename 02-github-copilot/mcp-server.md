@@ -127,8 +127,6 @@ The process feels natural and controlled:
 > <!-- TODO: Replace with YouTube embed/link when ready -->
 > 🎬 *Video placeholder: `Connect to MCP + Prompt Files.mp4`*
 
-For a detailed walkthrough, see [MCP + Prompt Files Example](mcp-prompt-files-example.md).
-
 ---
 
 [← Back to GitHub Copilot](README.md) | [← Previous: Copilot Chat](copilot-chat-instructions-prompts-modes.md)

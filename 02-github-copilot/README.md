@@ -25,16 +25,13 @@ It was developed by GitHub and OpenAI to help write code, but you can also think
 
 - [Copilot Instructions](copilot-chat-instructions-prompts-modes.md#copilot-instructions)
 - [Copilot Prompt Files](copilot-chat-instructions-prompts-modes.md#copilot-prompt-files)
-  - 🌟 [Prompt File Examples](prompt-file-examples.md)
 - [Copilot Chat Modes](copilot-chat-instructions-prompts-modes.md#copilot-chat-modes)
-  - 🌟 [Chat Mode Examples](chat-mode-examples.md)
 
 ### MCP Server
 
 - [Making Sense of the MCP Server](mcp-server.md#making-sense-of-the-mcp-server)
 - [Why would we want to use an MCP Server](mcp-server.md#why-would-we-want-to-use-an-mcp-server)
 - [Combining MCP with Copilot Customization](mcp-server.md#combining-mcp-with-copilot-customization-in-vs-code)
-  - 🌟 [Connecting to MCP + Prompt Files](mcp-prompt-files-example.md)
 
 ---
 

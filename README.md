@@ -25,16 +25,13 @@ A comprehensive guide for non-developers to learn and master Visual Studio Code 
 - [GitHub Copilot Chat – Instructions, Prompts and Chat Modes](02-github-copilot/copilot-chat-instructions-prompts-modes.md)
   - [Copilot Instructions](02-github-copilot/copilot-chat-instructions-prompts-modes.md#copilot-instructions)
   - [Copilot Prompt Files](02-github-copilot/copilot-chat-instructions-prompts-modes.md#copilot-prompt-files)
-    - 🌟 [Prompt File Examples](02-github-copilot/prompt-file-examples.md)
   - [Copilot Chat Modes](02-github-copilot/copilot-chat-instructions-prompts-modes.md#copilot-chat-modes)
-    - 🌟 [Chat Mode Examples](02-github-copilot/chat-mode-examples.md)
   - [Summary of GitHub Copilot Chat functionality](02-github-copilot/copilot-chat-instructions-prompts-modes.md#summary-of-github-copilot-chat-functionality)
 - [MCP Server – Tools to extend your Copilot Chat experience](02-github-copilot/mcp-server.md)
   - [Making Sense of the MCP Server](02-github-copilot/mcp-server.md#making-sense-of-the-mcp-server)
   - [Why would we want to use an MCP Server](02-github-copilot/mcp-server.md#why-would-we-want-to-use-an-mcp-server)
   - [Combining MCP with Copilot Customization in VS Code](02-github-copilot/mcp-server.md#combining-mcp-with-copilot-customization-in-vs-code)
     - [Example: A Custom Copilot Workflow with MCP](02-github-copilot/mcp-server.md#example-a-custom-copilot-workflow-with-mcp)
-      - 🌟 [Connecting to MCP + Prompt Files](02-github-copilot/mcp-prompt-files-example.md)
 
 ### 📚 [Glossary of Terms](glossary.md)
 

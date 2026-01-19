@@ -84,10 +84,6 @@ They appear automatically when the extension is installed and can't be edited di
 | **User Prompt Files** | Personal prompt templates that travel with your VS Code profile and can be used across any workspace. | Individual user | In user profile directory (`~/.config/Code/User/prompts/` or `%APPDATA%\Code\User\prompts/`) | ✅ Full support via frontmatter | Lets you keep personal productivity prompts without affecting shared workspaces |
 | **Extension / Global Prompt Files** | Prompt templates packaged with VS Code or extensions that appear automatically in chat. | Any workspace where the extension is enabled | Extension directory (read-only) | ✅ Generally supported but defined by the extension developer | Provide prebuilt, ready-to-use prompt templates; can be cloned and customized locally |
 
-### 🌟 Prompt File Examples
-
-For detailed examples, see [Prompt File Examples](prompt-file-examples.md).
-
 ---
 
 ## Copilot Chat Modes
@@ -128,10 +124,6 @@ While you can't edit these directly, you can copy them into your workspace to cu
 | **Workspace Chat Modes** | Define shared, project-level Copilot "personas" that can switch how chat behaves. Can specify tools, models, and behavior directly in frontmatter. | Everyone working in the same workspace | Inside the workspace (typically `.vscode/chatmodes/` or `.github/chatmodes/`) | ✅ Full frontmatter support for description, model, tools, and behavior rules | Enables consistent team-wide roles or workflows such as "Code Reviewer" or "Documentation Assistant" |
 | **User Chat Modes** | Personal chat modes available across all your workspaces. Let you create your own preferred roles or shortcuts. | Individual user | In user profile directory (`~/.config/Code/User/chatmodes/` or `%APPDATA%\Code\User\chatmodes/`) | ✅ Full frontmatter support | Private to you; great for creating reusable "mental modes" that fit your personal workflow |
 | **Extension / Global Chat Modes** | Chat modes provided by extensions or by VS Code itself. Appear automatically when the extension is installed. | Any workspace with the extension enabled | Bundled within the extension (read-only) | ✅ Defined by the extension developer | Offer specialized modes (e.g. debugging, documentation) that integrate with language or tool extensions |
-
-### 🌟 Chat Mode Examples
-
-For detailed examples, see [Chat Mode Examples](chat-mode-examples.md).
 
 ---
 
