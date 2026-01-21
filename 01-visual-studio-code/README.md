@@ -6,6 +6,7 @@ This section covers everything you need to know about Visual Studio Code as a no
 
 | Topic | Description |
 | ----- | ----------- |
+| [Your First 10 Minutes](first-10-minutes.md) | Hands-on guide to get comfortable with VS Code and Copilot |
 | [What is it?](what-is-visual-studio-code.md#what-is-it) | Overview of VS Code and why it matters |
 | [How it works?](what-is-visual-studio-code.md#how-it-works) | Understanding the basics of how VS Code operates |
 | [Understanding where things live](what-is-visual-studio-code.md#understanding-where-things-live-in-vs-code) | User Profile, Workspace, and Folder concepts |
