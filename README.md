@@ -8,7 +8,16 @@ A comprehensive guide for non-developers to learn and master Visual Studio Code 
 
 ## Table of Contents
 
-### 🖥️ [Visual Studio Code](01-visual-studio-code/README.md)
+### � [Getting Started](00-getting-started/README.md)
+
+- [Installing VS Code & GitHub Copilot](00-getting-started/installation.md)
+  - [Part 1: Installing VS Code](00-getting-started/installation.md#part-1-installing-visual-studio-code)
+  - [Part 2: Installing GitHub Copilot](00-getting-started/installation.md#part-2-installing-github-copilot)
+  - [Part 3: Signing In & Authentication](00-getting-started/installation.md#part-3-signing-in--authentication)
+  - [Part 4: Verify Everything Works](00-getting-started/installation.md#part-4-verify-everything-works)
+  - [Part 5: Optional Tools (Git, Node.js)](00-getting-started/installation.md#part-5-optional-tools-advanced)
+
+### �🖥️ [Visual Studio Code](01-visual-studio-code/README.md)
 
 - [What is it?](01-visual-studio-code/what-is-visual-studio-code.md#what-is-it)
 - [How it works?](01-visual-studio-code/what-is-visual-studio-code.md#how-it-works)
@@ -41,9 +50,10 @@ A comprehensive guide for non-developers to learn and master Visual Studio Code 
 
 ## How to Use This Guide
 
-1. **New to VS Code?** Start with the [Visual Studio Code](01-visual-studio-code/README.md) section
-2. **Ready for AI assistance?** Move on to [GitHub Copilot](02-github-copilot/README.md)
-3. **Looking for a term?** Check the [Glossary](glossary.md)
+1. **Brand new?** Start with [Getting Started](00-getting-started/README.md) to install everything
+2. **Already installed?** Learn about [Visual Studio Code](01-visual-studio-code/README.md)
+3. **Ready for AI assistance?** Move on to [GitHub Copilot](02-github-copilot/README.md)
+4. **Looking for a term?** Check the [Glossary](glossary.md)
 
 ## Contributing
 

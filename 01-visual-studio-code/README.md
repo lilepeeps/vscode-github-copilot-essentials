@@ -18,4 +18,4 @@ This section covers everything you need to know about Visual Studio Code as a no
 
 ---
 
-[← Back to Main](../README.md) | [Next: GitHub Copilot →](../02-github-copilot/README.md)
+[← Back to Main](../README.md) | [← Getting Started](../00-getting-started/README.md) | [Next: GitHub Copilot →](../02-github-copilot/README.md)
